@@ -1,0 +1,6 @@
+<resources>
+  <string name="app_name">ProgressButton</string>
+  <string name="txt_success">Success</string>
+  <string name="txt_fail">Fail</string>
+  <string name="submit_default">SUBMIT</string>
+</resources>

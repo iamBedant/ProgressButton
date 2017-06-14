@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <declare-styleable name="LoadingButton">
+
+    <attr name="button_background" format="color" />
+    <attr name="loading_background" format="color" />
+    <attr name="button_text_color" format="color"/>
+
+    <attr name="result_success_background" format="color" />
+    <attr name="result_fail_background" format="color" />
+
+    <attr name="success_text_color" format="color" />
+    <attr name="fail_text_color" format="color" />
+
+    <attr name="button_text" format="string"/>
+    <attr name="success_text" format="string"/>
+    <attr name="fail_text" format="string"/>
+
+    <attr name="loading_drawable" format="integer"/>
+  </declare-styleable>
+</resources>
